@@ -1,3 +1,3 @@
 # lab1_ITSupport
 
-Solution for the question Lab 1 question IT support admin
+Solution for the Lab 1 question IT support admin
